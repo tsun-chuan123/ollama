@@ -5,6 +5,7 @@ fruit_identifier.py
 build_fruit_index.py
 final_fruit_rag.py
 test_llava.py
+ollama_chat.py
 
 # 忽略 Faiss 索引檔
 fruit_index.faiss
